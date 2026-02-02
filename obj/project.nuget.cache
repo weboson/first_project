@@ -1,11 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "PUwe8wg8lnU=",
+  "dgSpecHash": "r+EVsd+3iYg=",
   "success": true,
   "projectFilePath": "D:\\MyJob\\Job_2025\\AGROS-Timur\\Backend C#\\FirstProject\\MyProject\\api\\api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ришат\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.2\\microsoft.aspnetcore.openapi.10.0.2.nupkg.sha512",
-    "C:\\Users\\Ришат\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+    "C:\\Users\\Ришат\\.nuget\\packages\\microsoft.extensions.apidescription.server\\10.0.0\\microsoft.extensions.apidescription.server.10.0.0.nupkg.sha512",
+    "C:\\Users\\Ришат\\.nuget\\packages\\microsoft.openapi\\2.4.1\\microsoft.openapi.2.4.1.nupkg.sha512",
+    "C:\\Users\\Ришат\\.nuget\\packages\\swashbuckle.aspnetcore\\10.1.1\\swashbuckle.aspnetcore.10.1.1.nupkg.sha512",
+    "C:\\Users\\Ришат\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\10.1.1\\swashbuckle.aspnetcore.swagger.10.1.1.nupkg.sha512",
+    "C:\\Users\\Ришат\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\10.1.1\\swashbuckle.aspnetcore.swaggergen.10.1.1.nupkg.sha512",
+    "C:\\Users\\Ришат\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\10.1.1\\swashbuckle.aspnetcore.swaggerui.10.1.1.nupkg.sha512"
   ],
   "logs": []
 }
