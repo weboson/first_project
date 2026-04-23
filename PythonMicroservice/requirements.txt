@@ -1,0 +1,28 @@
+# Core build tools
+setuptools==70.0.0
+wheel==0.43.0
+
+# API фреймворк
+fastapi==0.131.0
+uvicorn[standard]==0.41.0
+python-multipart==0.0.9
+
+# Работа с изображениями
+Pillow==10.1.0
+opencv-python==4.6.0.66
+numpy==1.26.3
+
+# PDF обработка (добавлено)
+pdf2image==1.16.3
+poppler-utils  # системная зависимость, нужна отдельная установка
+
+# PaddleOCR - устанавливаем с расширенными возможностями
+paddlepaddle==2.6.2
+paddleocr[all]==2.7.3  # изменили на [all] для полной функциональности
+
+# Ollama клиент (добавлен)
+ollama==0.1.9
+
+# Для резервного парсинга
+beautifulsoup4==4.12.2
+lxml==4.9.3
